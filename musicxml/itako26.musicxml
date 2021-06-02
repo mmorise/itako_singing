@@ -1,0 +1,4748 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 3.1 Partwise//EN" "http://www.musicxml.org/dtds/partwise.dtd">
+<score-partwise version="3.1">
+  <identification>
+    <encoding>
+      <software>MuseScore 3.6.2</software>
+      <encoding-date>2021-03-20</encoding-date>
+      <supports element="accidental" type="yes"/>
+      <supports element="beam" type="yes"/>
+      <supports element="print" attribute="new-page" type="yes" value="yes"/>
+      <supports element="print" attribute="new-system" type="yes" value="yes"/>
+      <supports element="stem" type="yes"/>
+      </encoding>
+    </identification>
+  <defaults>
+    <scaling>
+      <millimeters>6.99911</millimeters>
+      <tenths>40</tenths>
+      </scaling>
+    <page-layout>
+      <page-height>1697.36</page-height>
+      <page-width>1200.15</page-width>
+      <page-margins type="even">
+        <left-margin>85.7252</left-margin>
+        <right-margin>85.7252</right-margin>
+        <top-margin>85.7252</top-margin>
+        <bottom-margin>85.7252</bottom-margin>
+        </page-margins>
+      <page-margins type="odd">
+        <left-margin>85.7252</left-margin>
+        <right-margin>85.7252</right-margin>
+        <top-margin>85.7252</top-margin>
+        <bottom-margin>85.7252</bottom-margin>
+        </page-margins>
+      </page-layout>
+    <word-font font-family="Edwin" font-size="10"/>
+    <lyric-font font-family="Edwin" font-size="10"/>
+    </defaults>
+  <part-list>
+    <score-part id="P1">
+      <part-name>ピアノ, EZkeys 1</part-name>
+      <part-abbreviation>Pno.</part-abbreviation>
+      <score-instrument id="P1-I1">
+        <instrument-name>ピアノ</instrument-name>
+        </score-instrument>
+      <midi-device id="P1-I1" port="1"></midi-device>
+      <midi-instrument id="P1-I1">
+        <midi-channel>1</midi-channel>
+        <midi-program>1</midi-program>
+        <volume>78.7402</volume>
+        <pan>0</pan>
+        </midi-instrument>
+      </score-part>
+    </part-list>
+  <part id="P1">
+    <measure number="1" width="162.53">
+      <print>
+        <system-layout>
+          <system-margins>
+            <left-margin>50.00</left-margin>
+            <right-margin>0.00</right-margin>
+            </system-margins>
+          <top-system-distance>70.00</top-system-distance>
+          </system-layout>
+        </print>
+      <attributes>
+        <divisions>4</divisions>
+        <key>
+          <fifths>3</fifths>
+          </key>
+        <time>
+          <beats>4</beats>
+          <beat-type>4</beat-type>
+          </time>
+        <clef>
+          <sign>G</sign>
+          <line>2</line>
+          </clef>
+        </attributes>
+      <direction placement="above">
+        <direction-type>
+          <metronome parentheses="no" default-x="-37.68" relative-y="20.00">
+            <beat-unit>quarter</beat-unit>
+            <per-minute>143</per-minute>
+            </metronome>
+          </direction-type>
+        <sound tempo="143"/>
+        </direction>
+      <note>
+        <rest measure="yes"/>
+        <duration>16</duration>
+        <voice>1</voice>
+        </note>
+      </measure>
+    <measure number="2" width="62.25">
+      <note>
+        <rest measure="yes"/>
+        <duration>16</duration>
+        <voice>1</voice>
+        </note>
+      </measure>
+    <measure number="3" width="346.72">
+      <note default-x="18.04" default-y="-15.00" dynamics="111.11">
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>16th</type>
+        <accidental>natural</accidental>
+        <stem>down</stem>
+        <beam number="1">begin</beam>
+        <beam number="2">begin</beam>
+        <lyric number="1" default-x="6.70" default-y="-48.63" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>わ </text>
+          </lyric>
+        </note>
+      <note default-x="40.20" default-y="-15.00" dynamics="111.11">
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>16th</type>
+        <stem>down</stem>
+        <beam number="1">continue</beam>
+        <beam number="2">continue</beam>
+        <lyric number="1" default-x="6.70" default-y="-48.63" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>れ </text>
+          </lyric>
+        </note>
+      <note default-x="62.37" default-y="-15.00" dynamics="111.11">
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>16th</type>
+        <stem>down</stem>
+        <beam number="1">continue</beam>
+        <beam number="2">continue</beam>
+        <lyric number="1" default-x="6.70" default-y="-48.63" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>わ </text>
+          </lyric>
+        </note>
+      <note default-x="84.53" default-y="-15.00" dynamics="111.11">
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+          </pitch>
+        <duration>1</duration>
+        <tie type="start"/>
+        <voice>1</voice>
+        <type>16th</type>
+        <stem>down</stem>
+        <beam number="1">end</beam>
+        <beam number="2">end</beam>
+        <notations>
+          <tied type="start"/>
+          </notations>
+        <lyric number="1" default-x="6.70" default-y="-48.63" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>れ </text>
+          </lyric>
+        </note>
+      <note default-x="106.70" default-y="-15.00" dynamics="111.11">
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+          </pitch>
+        <duration>1</duration>
+        <tie type="stop"/>
+        <voice>1</voice>
+        <type>16th</type>
+        <stem>down</stem>
+        <beam number="1">begin</beam>
+        <beam number="2">forward hook</beam>
+        <notations>
+          <tied type="stop"/>
+          </notations>
+        </note>
+      <note default-x="133.23" default-y="5.00" dynamics="111.11">
+        <pitch>
+          <step>G</step>
+          <octave>5</octave>
+          </pitch>
+        <duration>3</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <dot/>
+        <accidental>natural</accidental>
+        <stem>down</stem>
+        <beam number="1">end</beam>
+        <lyric number="1" default-x="6.50" default-y="-48.63" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>br </text>
+          </lyric>
+        </note>
+      <note default-x="176.47" default-y="-20.00" dynamics="111.11">
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>16th</type>
+        <stem>down</stem>
+        <beam number="1">begin</beam>
+        <beam number="2">begin</beam>
+        <lyric number="1" default-x="6.90" default-y="-48.63" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>よ </text>
+          </lyric>
+        </note>
+      <note default-x="198.64" default-y="-20.00" dynamics="111.11">
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>16th</type>
+        <stem>down</stem>
+        <beam number="1">continue</beam>
+        <beam number="2">continue</beam>
+        <lyric number="1" default-x="6.70" default-y="-48.63" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>れ </text>
+          </lyric>
+        </note>
+      <note default-x="220.80" default-y="-20.00" dynamics="111.11">
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>16th</type>
+        <stem>down</stem>
+        <beam number="1">continue</beam>
+        <beam number="2">continue</beam>
+        <lyric number="1" default-x="6.90" default-y="-48.63" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>よ </text>
+          </lyric>
+        </note>
+      <note default-x="242.97" default-y="-20.00" dynamics="111.11">
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>1</duration>
+        <tie type="start"/>
+        <voice>1</voice>
+        <type>16th</type>
+        <stem>down</stem>
+        <beam number="1">end</beam>
+        <beam number="2">end</beam>
+        <notations>
+          <tied type="start"/>
+          </notations>
+        <lyric number="1" default-x="6.70" default-y="-48.63" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>れ </text>
+          </lyric>
+        </note>
+      <note default-x="265.13" default-y="-20.00" dynamics="111.11">
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>1</duration>
+        <tie type="stop"/>
+        <voice>1</voice>
+        <type>16th</type>
+        <stem>down</stem>
+        <notations>
+          <tied type="stop"/>
+          </notations>
+        </note>
+      <note>
+        <rest/>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>16th</type>
+        </note>
+      <note>
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        </note>
+      </measure>
+    <measure number="4" width="220.46">
+      <note default-x="15.41" default-y="-25.00" dynamics="111.11">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+        <lyric number="1" default-x="6.90" default-y="-48.63" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>せ </text>
+          </lyric>
+        </note>
+      <note default-x="43.36" default-y="-25.00" dynamics="111.11">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">continue</beam>
+        <lyric number="1" default-x="6.90" default-y="-48.63" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>か </text>
+          </lyric>
+        </note>
+      <note default-x="71.30" default-y="-30.00" dynamics="111.11">
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <accidental>natural</accidental>
+        <stem>up</stem>
+        <beam number="1">continue</beam>
+        <lyric number="1" default-x="7.30" default-y="-48.63" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>い </text>
+          </lyric>
+        </note>
+      <note default-x="100.76" default-y="-30.00" dynamics="111.11">
+        <pitch>
+          <step>G</step>
+          <alter>1</alter>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <accidental>sharp</accidental>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+        <lyric number="1" default-x="6.70" default-y="-48.63" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>わ </text>
+          </lyric>
+        </note>
+      <note default-x="128.70" default-y="-25.00" dynamics="111.11">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>3</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <dot/>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+        <lyric number="1" default-x="6.70" default-y="-48.63" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>だ </text>
+          </lyric>
+        </note>
+      <note default-x="162.77" default-y="-25.00" dynamics="111.11">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>16th</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+        <beam number="2">backward hook</beam>
+        <lyric number="1" default-x="6.90" default-y="-48.63" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>く </text>
+          </lyric>
+        </note>
+      <note>
+        <rest/>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        </note>
+      </measure>
+    <measure number="5" width="62.25">
+      <note>
+        <rest measure="yes"/>
+        <duration>16</duration>
+        <voice>1</voice>
+        </note>
+      </measure>
+    <measure number="6" width="62.25">
+      <note>
+        <rest measure="yes"/>
+        <duration>16</duration>
+        <voice>1</voice>
+        </note>
+      </measure>
+    <measure number="7" width="62.25">
+      <note>
+        <rest measure="yes"/>
+        <duration>16</duration>
+        <voice>1</voice>
+        </note>
+      </measure>
+    <measure number="8" width="216.17">
+      <print new-system="yes">
+        <system-layout>
+          <system-margins>
+            <left-margin>0.00</left-margin>
+            <right-margin>0.00</right-margin>
+            </system-margins>
+          <system-distance>108.29</system-distance>
+          </system-layout>
+        </print>
+      <note>
+        <rest/>
+        <duration>8</duration>
+        <voice>1</voice>
+        <type>half</type>
+        </note>
+      <note>
+        <rest/>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        </note>
+      <note>
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        </note>
+      <note default-x="181.54" default-y="5.00" dynamics="111.11">
+        <pitch>
+          <step>G</step>
+          <octave>5</octave>
+          </pitch>
+        <duration>2</duration>
+        <tie type="start"/>
+        <voice>1</voice>
+        <type>eighth</type>
+        <accidental>natural</accidental>
+        <stem>down</stem>
+        <notations>
+          <tied type="start"/>
+          </notations>
+        <lyric number="1" default-x="6.50" default-y="-60.72" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>br </text>
+          </lyric>
+        </note>
+      </measure>
+    <measure number="9" width="283.06">
+      <note default-x="13.00" default-y="5.00" dynamics="111.11">
+        <pitch>
+          <step>G</step>
+          <octave>5</octave>
+          </pitch>
+        <duration>2</duration>
+        <tie type="stop"/>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+        <notations>
+          <tied type="stop"/>
+          </notations>
+        </note>
+      <note default-x="46.43" default-y="-50.00" dynamics="111.11">
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <accidental>natural</accidental>
+        <stem>up</stem>
+        <beam number="1">continue</beam>
+        <lyric number="1" default-x="7.10" default-y="-60.72" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>こ </text>
+          </lyric>
+        </note>
+      <note default-x="79.86" default-y="-50.00" dynamics="111.11">
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">continue</beam>
+        <lyric number="1" default-x="7.10" default-y="-60.72" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>こ </text>
+          </lyric>
+        </note>
+      <note default-x="114.11" default-y="-60.00" dynamics="111.11">
+        <pitch>
+          <step>A</step>
+          <alter>1</alter>
+          <octave>3</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <accidental>sharp</accidental>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+        <lyric number="1" default-x="6.90" default-y="-60.72" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>ろ </text>
+          </lyric>
+        </note>
+      <note default-x="147.54" default-y="-50.00" dynamics="111.11">
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+        <lyric number="1" default-x="6.90" default-y="-60.72" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>ぬ </text>
+          </lyric>
+        </note>
+      <note default-x="180.97" default-y="-60.00" dynamics="111.11">
+        <pitch>
+          <step>A</step>
+          <alter>1</alter>
+          <octave>3</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">continue</beam>
+        <lyric number="1" default-x="6.90" default-y="-60.72" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>る </text>
+          </lyric>
+        </note>
+      <note default-x="214.40" default-y="-50.00" dynamics="111.11">
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">continue</beam>
+        <lyric number="1" default-x="6.90" default-y="-60.72" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>ぬ </text>
+          </lyric>
+        </note>
+      <note default-x="247.83" default-y="-60.00" dynamics="111.11">
+        <pitch>
+          <step>A</step>
+          <alter>1</alter>
+          <octave>3</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+        <lyric number="1" default-x="6.90" default-y="-60.72" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>る </text>
+          </lyric>
+        </note>
+      </measure>
+    <measure number="10" width="291.63">
+      <note default-x="20.96" default-y="-45.00" dynamics="111.11">
+        <pitch>
+          <step>D</step>
+          <alter>1</alter>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <accidental>sharp</accidental>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+        <lyric number="1" default-x="7.30" default-y="-60.72" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>い </text>
+          </lyric>
+        </note>
+      <note default-x="54.57" default-y="-45.00" dynamics="111.11">
+        <pitch>
+          <step>D</step>
+          <alter>1</alter>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">continue</beam>
+        <lyric number="1" default-x="7.30" default-y="-60.72" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>ぎょ </text>
+          </lyric>
+        </note>
+      <note default-x="88.18" default-y="-50.00" dynamics="111.11">
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <accidental>natural</accidental>
+        <stem>up</stem>
+        <beam number="1">continue</beam>
+        <lyric number="1" default-x="7.10" default-y="-60.72" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>お </text>
+          </lyric>
+        </note>
+      <note default-x="121.79" default-y="-45.00" dynamics="111.11">
+        <pitch>
+          <step>D</step>
+          <alter>1</alter>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+        <lyric number="1" default-x="6.90" default-y="-60.72" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>の </text>
+          </lyric>
+        </note>
+      <note default-x="155.40" default-y="-40.00" dynamics="111.11">
+        <pitch>
+          <step>E</step>
+          <alter>1</alter>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <accidental>sharp</accidental>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+        <lyric number="1" default-x="6.90" default-y="-60.72" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>か </text>
+          </lyric>
+        </note>
+      <note default-x="189.01" default-y="-30.00" dynamics="111.11">
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <accidental>natural</accidental>
+        <stem>up</stem>
+        <beam number="1">continue</beam>
+        <lyric number="1" default-x="6.90" default-y="-60.72" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>み </text>
+          </lyric>
+        </note>
+      <note default-x="222.62" default-y="-40.00" dynamics="111.11">
+        <pitch>
+          <step>E</step>
+          <alter>1</alter>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">continue</beam>
+        <lyric number="1" default-x="6.90" default-y="-60.72" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>が </text>
+          </lyric>
+        </note>
+      <note default-x="256.23" default-y="-30.00" dynamics="111.11">
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <tie type="start"/>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+        <notations>
+          <tied type="start"/>
+          </notations>
+        <lyric number="1" default-x="6.90" default-y="-60.72" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>み </text>
+          </lyric>
+        </note>
+      </measure>
+    <measure number="11" width="107.02">
+      <note default-x="13.00" default-y="-30.00" dynamics="111.11">
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>4</duration>
+        <tie type="stop"/>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>up</stem>
+        <notations>
+          <tied type="stop"/>
+          </notations>
+        </note>
+      <note>
+        <rest/>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        </note>
+      <note>
+        <rest/>
+        <duration>8</duration>
+        <voice>1</voice>
+        <type>half</type>
+        </note>
+      </measure>
+    <measure number="12" width="130.82">
+      <note>
+        <rest/>
+        <duration>8</duration>
+        <voice>1</voice>
+        <type>half</type>
+        </note>
+      <note>
+        <rest/>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        </note>
+      <note>
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        </note>
+      <note default-x="96.19" default-y="5.00" dynamics="111.11">
+        <pitch>
+          <step>G</step>
+          <octave>5</octave>
+          </pitch>
+        <duration>2</duration>
+        <tie type="start"/>
+        <voice>1</voice>
+        <type>eighth</type>
+        <accidental>natural</accidental>
+        <stem>down</stem>
+        <notations>
+          <tied type="start"/>
+          </notations>
+        <lyric number="1" default-x="6.50" default-y="-60.72" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>br </text>
+          </lyric>
+        </note>
+      </measure>
+    <measure number="13" width="359.56">
+      <print new-system="yes">
+        <system-layout>
+          <system-margins>
+            <left-margin>0.00</left-margin>
+            <right-margin>0.00</right-margin>
+            </system-margins>
+          <system-distance>108.29</system-distance>
+          </system-layout>
+        </print>
+      <note default-x="98.35" default-y="5.00" dynamics="111.11">
+        <pitch>
+          <step>G</step>
+          <octave>5</octave>
+          </pitch>
+        <duration>2</duration>
+        <tie type="stop"/>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+        <notations>
+          <tied type="stop"/>
+          </notations>
+        </note>
+      <note default-x="130.52" default-y="-50.00" dynamics="111.11">
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <accidental>natural</accidental>
+        <stem>up</stem>
+        <beam number="1">continue</beam>
+        <lyric number="1" default-x="6.90" default-y="-61.93" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>か </text>
+          </lyric>
+        </note>
+      <note default-x="162.68" default-y="-50.00" dynamics="111.11">
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">continue</beam>
+        <lyric number="1" default-x="6.70" default-y="-61.93" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>た </text>
+          </lyric>
+        </note>
+      <note default-x="196.94" default-y="-60.00" dynamics="111.11">
+        <pitch>
+          <step>A</step>
+          <alter>1</alter>
+          <octave>3</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <accidental>sharp</accidental>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+        <lyric number="1" default-x="6.90" default-y="-61.93" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>ち </text>
+          </lyric>
+        </note>
+      <note default-x="229.10" default-y="-50.00" dynamics="111.11">
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+        <lyric number="1" default-x="6.90" default-y="-61.93" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>む </text>
+          </lyric>
+        </note>
+      <note default-x="261.27" default-y="-60.00" dynamics="111.11">
+        <pitch>
+          <step>A</step>
+          <alter>1</alter>
+          <octave>3</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">continue</beam>
+        <lyric number="1" default-x="6.90" default-y="-61.93" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>る </text>
+          </lyric>
+        </note>
+      <note default-x="293.43" default-y="-50.00" dynamics="111.11">
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">continue</beam>
+        <lyric number="1" default-x="6.90" default-y="-61.93" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>む </text>
+          </lyric>
+        </note>
+      <note default-x="325.60" default-y="-60.00" dynamics="111.11">
+        <pitch>
+          <step>A</step>
+          <alter>1</alter>
+          <octave>3</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+        <lyric number="1" default-x="6.90" default-y="-61.93" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>る </text>
+          </lyric>
+        </note>
+      </measure>
+    <measure number="14" width="280.37">
+      <note default-x="20.96" default-y="-45.00" dynamics="111.11">
+        <pitch>
+          <step>D</step>
+          <alter>1</alter>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <accidental>sharp</accidental>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+        <lyric number="1" default-x="7.30" default-y="-61.93" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>い </text>
+          </lyric>
+        </note>
+      <note default-x="53.16" default-y="-45.00" dynamics="111.11">
+        <pitch>
+          <step>D</step>
+          <alter>1</alter>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">continue</beam>
+        <lyric number="1" default-x="7.30" default-y="-61.93" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>きょ </text>
+          </lyric>
+        </note>
+      <note default-x="85.36" default-y="-50.00" dynamics="111.11">
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <accidental>natural</accidental>
+        <stem>up</stem>
+        <beam number="1">continue</beam>
+        <lyric number="1" default-x="7.10" default-y="-61.93" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>お </text>
+          </lyric>
+        </note>
+      <note default-x="117.56" default-y="-45.00" dynamics="111.11">
+        <pitch>
+          <step>D</step>
+          <alter>1</alter>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+        <lyric number="1" default-x="6.70" default-y="-61.93" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>と </text>
+          </lyric>
+        </note>
+      <note default-x="149.76" default-y="-40.00" dynamics="111.11">
+        <pitch>
+          <step>E</step>
+          <alter>1</alter>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <accidental>sharp</accidental>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+        <lyric number="1" default-x="7.10" default-y="-61.93" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>に </text>
+          </lyric>
+        </note>
+      <note default-x="181.96" default-y="-30.00" dynamics="111.11">
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <accidental>natural</accidental>
+        <stem>up</stem>
+        <beam number="1">continue</beam>
+        <lyric number="1" default-x="7.10" default-y="-61.93" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>げ </text>
+          </lyric>
+        </note>
+      <note default-x="214.16" default-y="-40.00" dynamics="111.11">
+        <pitch>
+          <step>E</step>
+          <alter>1</alter>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">continue</beam>
+        <lyric number="1" default-x="6.70" default-y="-61.93" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>れ </text>
+          </lyric>
+        </note>
+      <note default-x="246.37" default-y="-30.00" dynamics="111.11">
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <tie type="start"/>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+        <notations>
+          <tied type="start"/>
+          </notations>
+        <lyric number="1" default-x="7.10" default-y="-61.93" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>ば </text>
+          </lyric>
+        </note>
+      </measure>
+    <measure number="15" width="98.17">
+      <note default-x="13.00" default-y="-30.00" dynamics="111.11">
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>4</duration>
+        <tie type="stop"/>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>up</stem>
+        <notations>
+          <tied type="stop"/>
+          </notations>
+        </note>
+      <note>
+        <rest/>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        </note>
+      <note>
+        <rest/>
+        <duration>8</duration>
+        <voice>1</voice>
+        <type>half</type>
+        </note>
+      </measure>
+    <measure number="16" width="110.86">
+      <note>
+        <rest/>
+        <duration>8</duration>
+        <voice>1</voice>
+        <type>half</type>
+        </note>
+      <note>
+        <rest/>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        </note>
+      <note default-x="76.23" default-y="5.00" dynamics="111.11">
+        <pitch>
+          <step>G</step>
+          <octave>5</octave>
+          </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <accidental>natural</accidental>
+        <stem>down</stem>
+        <lyric number="1" default-x="6.50" default-y="-61.93" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>br </text>
+          </lyric>
+        </note>
+      </measure>
+    <measure number="17" width="179.74">
+      <note default-x="20.96" default-y="-40.00" dynamics="111.11">
+        <pitch>
+          <step>E</step>
+          <alter>1</alter>
+          <octave>4</octave>
+          </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <accidental>sharp</accidental>
+        <stem>up</stem>
+        <lyric number="1" default-x="6.70" default-y="-61.93" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>た </text>
+          </lyric>
+        </note>
+      <note default-x="55.54" default-y="-40.00" dynamics="111.11">
+        <pitch>
+          <step>E</step>
+          <alter>1</alter>
+          <octave>4</octave>
+          </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>up</stem>
+        <lyric number="1" default-x="6.90" default-y="-61.93" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>の </text>
+          </lyric>
+        </note>
+      <note default-x="90.13" default-y="-40.00" dynamics="111.11">
+        <pitch>
+          <step>E</step>
+          <alter>1</alter>
+          <octave>4</octave>
+          </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>up</stem>
+        <lyric number="1" default-x="7.91" default-y="-61.93" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>し </text>
+          </lyric>
+        </note>
+      <note default-x="124.71" default-y="-45.00" dynamics="111.11">
+        <pitch>
+          <step>D</step>
+          <alter>1</alter>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <accidental>sharp</accidental>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+        <lyric number="1" default-x="7.30" default-y="-61.93" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>い </text>
+          </lyric>
+        </note>
+      <note default-x="146.33" default-y="-40.00" dynamics="111.11">
+        <pitch>
+          <step>E</step>
+          <alter>1</alter>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <tie type="start"/>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+        <notations>
+          <tied type="start"/>
+          </notations>
+        <lyric number="1" default-x="6.70" default-y="-61.93" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>ね </text>
+          </lyric>
+        </note>
+      </measure>
+    <measure number="18" width="314.24">
+      <print new-system="yes">
+        <system-layout>
+          <system-margins>
+            <left-margin>0.00</left-margin>
+            <right-margin>0.00</right-margin>
+            </system-margins>
+          <system-distance>113.34</system-distance>
+          </system-layout>
+        </print>
+      <note default-x="98.35" default-y="-40.00" dynamics="111.11">
+        <pitch>
+          <step>E</step>
+          <alter>1</alter>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <tie type="stop"/>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+        <notations>
+          <tied type="stop"/>
+          </notations>
+        </note>
+      <note default-x="124.06" default-y="-30.00" dynamics="111.11">
+        <pitch>
+          <step>G</step>
+          <alter>1</alter>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">continue</beam>
+        <lyric number="1" default-x="6.90" default-y="-61.13" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>や </text>
+          </lyric>
+        </note>
+      <note default-x="149.76" default-y="-30.00" dynamics="111.11">
+        <pitch>
+          <step>G</step>
+          <alter>1</alter>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">continue</beam>
+        <lyric number="1" default-x="7.10" default-y="-61.13" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>け </text>
+          </lyric>
+        </note>
+      <note default-x="175.46" default-y="-30.00" dynamics="111.11">
+        <pitch>
+          <step>G</step>
+          <alter>1</alter>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+        <lyric number="1" default-x="6.90" default-y="-61.13" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>る </text>
+          </lyric>
+        </note>
+      <note default-x="201.17" default-y="-30.00" dynamics="111.11">
+        <pitch>
+          <step>G</step>
+          <alter>1</alter>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+        <lyric number="1" default-x="6.70" default-y="-61.13" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>ぞ </text>
+          </lyric>
+        </note>
+      <note default-x="226.87" default-y="-30.00" dynamics="111.11">
+        <pitch>
+          <step>G</step>
+          <alter>1</alter>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">continue</beam>
+        <lyric number="1" default-x="6.70" default-y="-61.13" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>と </text>
+          </lyric>
+        </note>
+      <note default-x="256.32" default-y="-25.00" dynamics="111.11">
+        <pitch>
+          <step>A</step>
+          <alter>1</alter>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <accidental>sharp</accidental>
+        <stem>up</stem>
+        <beam number="1">continue</beam>
+        <lyric number="1" default-x="7.10" default-y="-61.13" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>け </text>
+          </lyric>
+        </note>
+      <note default-x="282.03" default-y="-30.00" dynamics="111.11">
+        <pitch>
+          <step>G</step>
+          <alter>1</alter>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+        <lyric number="1" default-x="6.90" default-y="-61.13" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>る </text>
+          </lyric>
+        </note>
+      </measure>
+    <measure number="19" width="64.06">
+      <note default-x="17.08" default-y="-30.00" dynamics="111.11">
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>16</duration>
+        <voice>1</voice>
+        <type>whole</type>
+        <accidental>natural</accidental>
+        <lyric number="1" default-x="5.74" default-y="-61.13" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>ぞ </text>
+          </lyric>
+        </note>
+      </measure>
+    <measure number="20" width="115.43">
+      <note>
+        <rest/>
+        <duration>8</duration>
+        <voice>1</voice>
+        <type>half</type>
+        </note>
+      <note>
+        <rest/>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        </note>
+      <note>
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        </note>
+      <note default-x="80.80" default-y="5.00" dynamics="111.11">
+        <pitch>
+          <step>G</step>
+          <octave>5</octave>
+          </pitch>
+        <duration>2</duration>
+        <tie type="start"/>
+        <voice>1</voice>
+        <type>eighth</type>
+        <accidental>natural</accidental>
+        <stem>down</stem>
+        <notations>
+          <tied type="start"/>
+          </notations>
+        <lyric number="1" default-x="6.50" default-y="-61.13" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>br </text>
+          </lyric>
+        </note>
+      </measure>
+    <measure number="21" width="268.64">
+      <note default-x="13.00" default-y="5.00" dynamics="111.11">
+        <pitch>
+          <step>G</step>
+          <octave>5</octave>
+          </pitch>
+        <duration>2</duration>
+        <tie type="stop"/>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+        <notations>
+          <tied type="stop"/>
+          </notations>
+        </note>
+      <note default-x="44.37" default-y="-50.00" dynamics="111.11">
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <accidental>natural</accidental>
+        <stem>up</stem>
+        <beam number="1">continue</beam>
+        <lyric number="1" default-x="6.90" default-y="-61.13" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>む </text>
+          </lyric>
+        </note>
+      <note default-x="75.74" default-y="-50.00" dynamics="111.11">
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">continue</beam>
+        <lyric number="1" default-x="6.90" default-y="-61.13" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>く </text>
+          </lyric>
+        </note>
+      <note default-x="109.99" default-y="-60.00" dynamics="111.11">
+        <pitch>
+          <step>A</step>
+          <alter>1</alter>
+          <octave>3</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <accidental>sharp</accidental>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+        <lyric number="1" default-x="6.90" default-y="-61.13" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>ろ </text>
+          </lyric>
+        </note>
+      <note default-x="141.36" default-y="-50.00" dynamics="111.11">
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+        <lyric number="1" default-x="6.90" default-y="-61.13" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>ひ </text>
+          </lyric>
+        </note>
+      <note default-x="172.73" default-y="-60.00" dynamics="111.11">
+        <pitch>
+          <step>A</step>
+          <alter>1</alter>
+          <octave>3</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">continue</beam>
+        <lyric number="1" default-x="6.90" default-y="-61.13" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>や </text>
+          </lyric>
+        </note>
+      <note default-x="204.10" default-y="-50.00" dynamics="111.11">
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">continue</beam>
+        <lyric number="1" default-x="6.90" default-y="-61.13" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>ひ </text>
+          </lyric>
+        </note>
+      <note default-x="235.47" default-y="-60.00" dynamics="111.11">
+        <pitch>
+          <step>A</step>
+          <alter>1</alter>
+          <octave>3</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+        <lyric number="1" default-x="6.90" default-y="-61.13" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>や </text>
+          </lyric>
+        </note>
+      </measure>
+    <measure number="22" width="266.33">
+      <note default-x="20.96" default-y="-45.00" dynamics="111.11">
+        <pitch>
+          <step>D</step>
+          <alter>1</alter>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <accidental>sharp</accidental>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+        <lyric number="1" default-x="6.70" default-y="-61.13" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>そ </text>
+          </lyric>
+        </note>
+      <note default-x="51.30" default-y="-45.00" dynamics="111.11">
+        <pitch>
+          <step>D</step>
+          <alter>1</alter>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">continue</beam>
+        <lyric number="1" default-x="6.70" default-y="-61.13" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>れ </text>
+          </lyric>
+        </note>
+      <note default-x="81.63" default-y="-50.00" dynamics="111.11">
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <accidental>natural</accidental>
+        <stem>up</stem>
+        <beam number="1">continue</beam>
+        <lyric number="1" default-x="6.90" default-y="-61.13" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>で </text>
+          </lyric>
+        </note>
+      <note default-x="111.97" default-y="-45.00" dynamics="111.11">
+        <pitch>
+          <step>D</step>
+          <alter>1</alter>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+        <lyric number="1" default-x="7.10" default-y="-61.13" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>も </text>
+          </lyric>
+        </note>
+      <note default-x="142.30" default-y="-40.00" dynamics="111.11">
+        <pitch>
+          <step>E</step>
+          <alter>1</alter>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <accidental>sharp</accidental>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+        <lyric number="1" default-x="6.90" default-y="-61.13" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>す </text>
+          </lyric>
+        </note>
+      <note default-x="172.64" default-y="-30.00" dynamics="111.11">
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <accidental>natural</accidental>
+        <stem>up</stem>
+        <beam number="1">continue</beam>
+        <lyric number="1" default-x="7.30" default-y="-61.13" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>き </text>
+          </lyric>
+        </note>
+      <note default-x="202.98" default-y="-40.00" dynamics="111.11">
+        <pitch>
+          <step>E</step>
+          <alter>1</alter>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">continue</beam>
+        <lyric number="1" default-x="6.90" default-y="-61.13" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>で </text>
+          </lyric>
+        </note>
+      <note default-x="233.31" default-y="-30.00" dynamics="111.11">
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <tie type="start"/>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+        <notations>
+          <tied type="start"/>
+          </notations>
+        <lyric number="1" default-x="6.90" default-y="-61.13" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>す </text>
+          </lyric>
+        </note>
+      </measure>
+    <measure number="23" width="176.27">
+      <print new-system="yes">
+        <system-layout>
+          <system-margins>
+            <left-margin>0.00</left-margin>
+            <right-margin>0.00</right-margin>
+            </system-margins>
+          <system-distance>111.42</system-distance>
+          </system-layout>
+        </print>
+      <note default-x="98.35" default-y="-30.00" dynamics="111.11">
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>4</duration>
+        <tie type="stop"/>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>up</stem>
+        <notations>
+          <tied type="stop"/>
+          </notations>
+        </note>
+      <note>
+        <rest/>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        </note>
+      <note>
+        <rest/>
+        <duration>8</duration>
+        <voice>1</voice>
+        <type>half</type>
+        </note>
+      </measure>
+    <measure number="24" width="114.71">
+      <note>
+        <rest/>
+        <duration>8</duration>
+        <voice>1</voice>
+        <type>half</type>
+        </note>
+      <note>
+        <rest/>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        </note>
+      <note>
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        </note>
+      <note default-x="80.08" default-y="5.00" dynamics="111.11">
+        <pitch>
+          <step>G</step>
+          <octave>5</octave>
+          </pitch>
+        <duration>2</duration>
+        <tie type="start"/>
+        <voice>1</voice>
+        <type>eighth</type>
+        <accidental>natural</accidental>
+        <stem>down</stem>
+        <notations>
+          <tied type="start"/>
+          </notations>
+        <lyric number="1" default-x="6.50" default-y="-61.93" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>br </text>
+          </lyric>
+        </note>
+      </measure>
+    <measure number="25" width="267.92">
+      <note default-x="13.00" default-y="5.00" dynamics="111.11">
+        <pitch>
+          <step>G</step>
+          <octave>5</octave>
+          </pitch>
+        <duration>2</duration>
+        <tie type="stop"/>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+        <notations>
+          <tied type="stop"/>
+          </notations>
+        </note>
+      <note default-x="44.27" default-y="-50.00" dynamics="111.11">
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <accidental>natural</accidental>
+        <stem>up</stem>
+        <beam number="1">continue</beam>
+        <lyric number="1" default-x="6.90" default-y="-61.93" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>す </text>
+          </lyric>
+        </note>
+      <note default-x="75.53" default-y="-50.00" dynamics="111.11">
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">continue</beam>
+        <lyric number="1" default-x="6.90" default-y="-61.93" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>が </text>
+          </lyric>
+        </note>
+      <note default-x="109.79" default-y="-60.00" dynamics="111.11">
+        <pitch>
+          <step>A</step>
+          <alter>1</alter>
+          <octave>3</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <accidental>sharp</accidental>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+        <lyric number="1" default-x="6.70" default-y="-61.93" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>た </text>
+          </lyric>
+        </note>
+      <note default-x="141.05" default-y="-50.00" dynamics="111.11">
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+        <lyric number="1" default-x="7.10" default-y="-61.93" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>ぱ </text>
+          </lyric>
+        </note>
+      <note default-x="172.32" default-y="-60.00" dynamics="111.11">
+        <pitch>
+          <step>A</step>
+          <alter>1</alter>
+          <octave>3</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">continue</beam>
+        <lyric number="1" default-x="6.90" default-y="-61.93" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>や </text>
+          </lyric>
+        </note>
+      <note default-x="203.59" default-y="-50.00" dynamics="111.11">
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">continue</beam>
+        <lyric number="1" default-x="7.10" default-y="-61.93" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>ぱ </text>
+          </lyric>
+        </note>
+      <note default-x="234.85" default-y="-60.00" dynamics="111.11">
+        <pitch>
+          <step>A</step>
+          <alter>1</alter>
+          <octave>3</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+        <lyric number="1" default-x="6.90" default-y="-61.93" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>や </text>
+          </lyric>
+        </note>
+      </measure>
+    <measure number="26" width="275.29">
+      <note default-x="20.96" default-y="-45.00" dynamics="111.11">
+        <pitch>
+          <step>D</step>
+          <alter>1</alter>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <accidental>sharp</accidental>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+        <lyric number="1" default-x="6.70" default-y="-61.93" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>そ </text>
+          </lyric>
+        </note>
+      <note default-x="51.88" default-y="-45.00" dynamics="111.11">
+        <pitch>
+          <step>D</step>
+          <alter>1</alter>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">continue</beam>
+        <lyric number="1" default-x="6.70" default-y="-61.93" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>れ </text>
+          </lyric>
+        </note>
+      <note default-x="82.81" default-y="-50.00" dynamics="111.11">
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <accidental>natural</accidental>
+        <stem>up</stem>
+        <beam number="1">continue</beam>
+        <lyric number="1" default-x="6.90" default-y="-61.93" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>で </text>
+          </lyric>
+        </note>
+      <note default-x="113.73" default-y="-45.00" dynamics="111.11">
+        <pitch>
+          <step>D</step>
+          <alter>1</alter>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+        <lyric number="1" default-x="6.70" default-y="-61.93" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>わ </text>
+          </lyric>
+        </note>
+      <note default-x="144.66" default-y="-40.00" dynamics="111.11">
+        <pitch>
+          <step>E</step>
+          <alter>1</alter>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <accidental>sharp</accidental>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+        <lyric number="1" default-x="7.30" default-y="-61.93" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>い </text>
+          </lyric>
+        </note>
+      <note default-x="175.58" default-y="-30.00" dynamics="111.11">
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <accidental>natural</accidental>
+        <stem>up</stem>
+        <beam number="1">continue</beam>
+        <lyric number="1" default-x="7.30" default-y="-61.93" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>き </text>
+          </lyric>
+        </note>
+      <note default-x="206.51" default-y="-40.00" dynamics="111.11">
+        <pitch>
+          <step>E</step>
+          <alter>1</alter>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">continue</beam>
+        <lyric number="1" default-x="6.90" default-y="-61.93" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>ま </text>
+          </lyric>
+        </note>
+      <note default-x="237.43" default-y="-30.00" dynamics="111.11">
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <tie type="start"/>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+        <notations>
+          <tied type="start"/>
+          </notations>
+        <lyric number="1" default-x="7.91" default-y="-61.93" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>しょ </text>
+          </lyric>
+        </note>
+      </measure>
+    <measure number="27" width="90.92">
+      <note default-x="13.00" default-y="-30.00" dynamics="111.11">
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>4</duration>
+        <tie type="stop"/>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>up</stem>
+        <notations>
+          <tied type="stop"/>
+          </notations>
+        </note>
+      <note>
+        <rest/>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        </note>
+      <note>
+        <rest/>
+        <duration>8</duration>
+        <voice>1</voice>
+        <type>half</type>
+        </note>
+      </measure>
+    <measure number="28" width="103.60">
+      <note>
+        <rest/>
+        <duration>8</duration>
+        <voice>1</voice>
+        <type>half</type>
+        </note>
+      <note>
+        <rest/>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        </note>
+      <note default-x="68.97" default-y="5.00" dynamics="111.11">
+        <pitch>
+          <step>G</step>
+          <octave>5</octave>
+          </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <accidental>natural</accidental>
+        <stem>down</stem>
+        <lyric number="1" default-x="6.50" default-y="-61.93" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>br </text>
+          </lyric>
+        </note>
+      </measure>
+    <measure number="29" width="298.33">
+      <print new-system="yes">
+        <system-layout>
+          <system-margins>
+            <left-margin>0.00</left-margin>
+            <right-margin>0.00</right-margin>
+            </system-margins>
+          <system-distance>108.29</system-distance>
+          </system-layout>
+        </print>
+      <note default-x="110.61" default-y="-40.00" dynamics="111.11">
+        <pitch>
+          <step>E</step>
+          <alter>1</alter>
+          <octave>4</octave>
+          </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <accidental>sharp</accidental>
+        <stem>up</stem>
+        <lyric number="1" default-x="6.90" default-y="-61.93" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>か </text>
+          </lyric>
+        </note>
+      <note default-x="153.29" default-y="-40.00" dynamics="111.11">
+        <pitch>
+          <step>E</step>
+          <alter>1</alter>
+          <octave>4</octave>
+          </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>up</stem>
+        <lyric number="1" default-x="6.90" default-y="-61.93" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>が </text>
+          </lyric>
+        </note>
+      <note default-x="195.96" default-y="-40.00" dynamics="111.11">
+        <pitch>
+          <step>E</step>
+          <alter>1</alter>
+          <octave>4</octave>
+          </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>up</stem>
+        <lyric number="1" default-x="6.90" default-y="-61.93" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>み </text>
+          </lyric>
+        </note>
+      <note default-x="238.64" default-y="-45.00" dynamics="111.11">
+        <pitch>
+          <step>D</step>
+          <alter>1</alter>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <accidental>sharp</accidental>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+        <lyric number="1" default-x="7.10" default-y="-61.93" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>に </text>
+          </lyric>
+        </note>
+      <note default-x="265.31" default-y="-40.00" dynamics="111.11">
+        <pitch>
+          <step>E</step>
+          <alter>1</alter>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <tie type="start"/>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+        <notations>
+          <tied type="start"/>
+          </notations>
+        <lyric number="1" default-x="6.70" default-y="-61.93" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>わ </text>
+          </lyric>
+        </note>
+      </measure>
+    <measure number="30" width="153.78">
+      <note default-x="13.00" default-y="-40.00" dynamics="111.11">
+        <pitch>
+          <step>E</step>
+          <alter>1</alter>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <tie type="stop"/>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>up</stem>
+        <notations>
+          <tied type="stop"/>
+          </notations>
+        </note>
+      <note>
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        </note>
+      <note>
+        <rest/>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        </note>
+      <note>
+        <rest/>
+        <duration>8</duration>
+        <voice>1</voice>
+        <type>half</type>
+        </note>
+      </measure>
+    <measure number="31" width="219.70">
+      <note default-x="21.54" default-y="-50.00" dynamics="111.11">
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <accidental>natural</accidental>
+        <stem>up</stem>
+        <lyric number="1" default-x="6.90" default-y="-61.93" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>う </text>
+          </lyric>
+        </note>
+      <note default-x="67.15" default-y="-50.00" dynamics="111.11">
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>up</stem>
+        <lyric number="1" default-x="6.90" default-y="-61.93" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>つ </text>
+          </lyric>
+        </note>
+      <note default-x="112.76" default-y="-50.00" dynamics="111.11">
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>up</stem>
+        <lyric number="1" default-x="7.30" default-y="-61.93" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>ら </text>
+          </lyric>
+        </note>
+      <note default-x="158.37" default-y="-60.00" dynamics="111.11">
+        <pitch>
+          <step>A</step>
+          <alter>1</alter>
+          <octave>3</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <accidental>sharp</accidental>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+        <lyric number="1" default-x="6.90" default-y="-61.93" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>な </text>
+          </lyric>
+        </note>
+      <note default-x="186.88" default-y="-50.00" dynamics="111.11">
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <tie type="start"/>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+        <notations>
+          <tied type="start"/>
+          </notations>
+        <lyric number="1" default-x="7.30" default-y="-61.93" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>い </text>
+          </lyric>
+        </note>
+      </measure>
+    <measure number="32" width="157.41">
+      <note default-x="16.50" default-y="-50.00" dynamics="111.11">
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>4</duration>
+        <tie type="stop"/>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>up</stem>
+        <notations>
+          <tied type="stop"/>
+          </notations>
+        </note>
+      <note>
+        <rest/>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        </note>
+      <note>
+        <rest/>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        </note>
+      <note default-x="120.84" default-y="5.00" dynamics="111.11">
+        <pitch>
+          <step>G</step>
+          <octave>5</octave>
+          </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <accidental>natural</accidental>
+        <stem>down</stem>
+        <lyric number="1" default-x="6.50" default-y="-61.93" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>br </text>
+          </lyric>
+        </note>
+      </measure>
+    <measure number="33" width="199.48">
+      <note default-x="20.96" default-y="-40.00" dynamics="111.11">
+        <pitch>
+          <step>E</step>
+          <alter>1</alter>
+          <octave>4</octave>
+          </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <accidental>sharp</accidental>
+        <stem>up</stem>
+        <lyric number="1" default-x="6.90" default-y="-61.93" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>よ </text>
+          </lyric>
+        </note>
+      <note default-x="61.10" default-y="-40.00" dynamics="111.11">
+        <pitch>
+          <step>E</step>
+          <alter>1</alter>
+          <octave>4</octave>
+          </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>up</stem>
+        <lyric number="1" default-x="6.90" default-y="-61.93" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>く </text>
+          </lyric>
+        </note>
+      <note default-x="101.24" default-y="-40.00" dynamics="111.11">
+        <pitch>
+          <step>E</step>
+          <alter>1</alter>
+          <octave>4</octave>
+          </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>up</stem>
+        <lyric number="1" default-x="7.10" default-y="-61.93" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>ぼ </text>
+          </lyric>
+        </note>
+      <note default-x="141.38" default-y="-45.00" dynamics="111.11">
+        <pitch>
+          <step>D</step>
+          <alter>1</alter>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <accidental>sharp</accidental>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+        <lyric number="1" default-x="7.10" default-y="-61.93" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>お </text>
+          </lyric>
+        </note>
+      <note default-x="166.47" default-y="-40.00" dynamics="111.11">
+        <pitch>
+          <step>E</step>
+          <alter>1</alter>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <tie type="start"/>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+        <notations>
+          <tied type="start"/>
+          </notations>
+        <lyric number="1" default-x="6.70" default-y="-61.93" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>わ </text>
+          </lyric>
+        </note>
+      </measure>
+    <measure number="34" width="301.40">
+      <print new-system="yes">
+        <system-layout>
+          <system-margins>
+            <left-margin>0.00</left-margin>
+            <right-margin>0.00</right-margin>
+            </system-margins>
+          <system-distance>108.29</system-distance>
+          </system-layout>
+        </print>
+      <note default-x="98.35" default-y="-40.00" dynamics="111.11">
+        <pitch>
+          <step>E</step>
+          <alter>1</alter>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <tie type="stop"/>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+        <notations>
+          <tied type="stop"/>
+          </notations>
+        </note>
+      <note default-x="122.32" default-y="-30.00" dynamics="111.11">
+        <pitch>
+          <step>G</step>
+          <alter>1</alter>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">continue</beam>
+        <lyric number="1" default-x="7.10" default-y="-59.47" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>こ </text>
+          </lyric>
+        </note>
+      <note default-x="146.28" default-y="-30.00" dynamics="111.11">
+        <pitch>
+          <step>G</step>
+          <alter>1</alter>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">continue</beam>
+        <lyric number="1" default-x="6.70" default-y="-59.47" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>と </text>
+          </lyric>
+        </note>
+      <note default-x="170.25" default-y="-30.00" dynamics="111.11">
+        <pitch>
+          <step>G</step>
+          <alter>1</alter>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+        <lyric number="1" default-x="7.10" default-y="-59.47" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>ば </text>
+          </lyric>
+        </note>
+      <note default-x="194.22" default-y="-30.00" dynamics="111.11">
+        <pitch>
+          <step>G</step>
+          <alter>1</alter>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+        <lyric number="1" default-x="7.10" default-y="-59.47" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>に </text>
+          </lyric>
+        </note>
+      <note default-x="218.18" default-y="-30.00" dynamics="111.11">
+        <pitch>
+          <step>G</step>
+          <alter>1</alter>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">continue</beam>
+        <lyric number="1" default-x="7.91" default-y="-59.47" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>し </text>
+          </lyric>
+        </note>
+      <note default-x="247.64" default-y="-25.00" dynamics="111.11">
+        <pitch>
+          <step>A</step>
+          <alter>1</alter>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <accidental>sharp</accidental>
+        <stem>up</stem>
+        <beam number="1">continue</beam>
+        <lyric number="1" default-x="6.90" default-y="-59.47" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>な </text>
+          </lyric>
+        </note>
+      <note default-x="271.60" default-y="-30.00" dynamics="111.11">
+        <pitch>
+          <step>G</step>
+          <alter>1</alter>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+        <lyric number="1" default-x="6.90" default-y="-59.47" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>く </text>
+          </lyric>
+        </note>
+      </measure>
+    <measure number="35" width="275.20">
+      <note default-x="18.04" default-y="-30.00" dynamics="111.11">
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>3</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <dot/>
+        <accidental>natural</accidental>
+        <stem>down</stem>
+        <beam number="1">begin</beam>
+        <lyric number="1" default-x="6.90" default-y="-59.47" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>ちゃ </text>
+          </lyric>
+        </note>
+      <note default-x="58.54" default-y="5.00" dynamics="111.11">
+        <pitch>
+          <step>G</step>
+          <octave>5</octave>
+          </pitch>
+        <duration>1</duration>
+        <tie type="start"/>
+        <voice>1</voice>
+        <type>16th</type>
+        <accidental>natural</accidental>
+        <stem>down</stem>
+        <beam number="1">end</beam>
+        <beam number="2">backward hook</beam>
+        <notations>
+          <tied type="start"/>
+          </notations>
+        <lyric number="1" default-x="6.50" default-y="-59.47" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>br </text>
+          </lyric>
+        </note>
+      <note default-x="79.29" default-y="5.00" dynamics="111.11">
+        <pitch>
+          <step>G</step>
+          <octave>5</octave>
+          </pitch>
+        <duration>2</duration>
+        <tie type="stop"/>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">begin</beam>
+        <notations>
+          <tied type="stop"/>
+          </notations>
+        </note>
+      <note default-x="112.51" default-y="-30.00" dynamics="111.11">
+        <pitch>
+          <step>G</step>
+          <alter>1</alter>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <accidental>sharp</accidental>
+        <stem>down</stem>
+        <beam number="1">end</beam>
+        <lyric number="1" default-x="7.10" default-y="-59.47" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>ほ </text>
+          </lyric>
+        </note>
+      <note default-x="145.72" default-y="-30.00" dynamics="111.11">
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>3</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <dot/>
+        <accidental>natural</accidental>
+        <stem>down</stem>
+        <beam number="1">begin</beam>
+        <lyric number="1" default-x="7.30" default-y="-59.47" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>ら </text>
+          </lyric>
+        </note>
+      <note default-x="186.21" default-y="5.00" dynamics="111.11">
+        <pitch>
+          <step>G</step>
+          <octave>5</octave>
+          </pitch>
+        <duration>1</duration>
+        <tie type="start"/>
+        <voice>1</voice>
+        <type>16th</type>
+        <stem>down</stem>
+        <beam number="1">end</beam>
+        <beam number="2">backward hook</beam>
+        <notations>
+          <tied type="start"/>
+          </notations>
+        <lyric number="1" default-x="6.50" default-y="-59.47" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>br </text>
+          </lyric>
+        </note>
+      <note default-x="206.97" default-y="5.00" dynamics="111.11">
+        <pitch>
+          <step>G</step>
+          <octave>5</octave>
+          </pitch>
+        <duration>2</duration>
+        <tie type="stop"/>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">begin</beam>
+        <notations>
+          <tied type="stop"/>
+          </notations>
+        </note>
+      <note default-x="240.18" default-y="-30.00" dynamics="111.11">
+        <pitch>
+          <step>G</step>
+          <alter>1</alter>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <accidental>sharp</accidental>
+        <stem>down</stem>
+        <beam number="1">end</beam>
+        <lyric number="1" default-x="7.30" default-y="-59.47" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>き </text>
+          </lyric>
+        </note>
+      </measure>
+    <measure number="36" width="223.59">
+      <note default-x="18.04" default-y="-30.00" dynamics="111.11">
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <accidental>natural</accidental>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+        <lyric number="1" default-x="6.90" default-y="-59.47" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>え </text>
+          </lyric>
+        </note>
+      <note default-x="47.49" default-y="-30.00" dynamics="111.11">
+        <pitch>
+          <step>G</step>
+          <alter>1</alter>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <accidental>sharp</accidental>
+        <stem>up</stem>
+        <beam number="1">continue</beam>
+        <lyric number="1" default-x="6.90" default-y="-59.47" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>ちゃ </text>
+          </lyric>
+        </note>
+      <note default-x="76.95" default-y="-25.00" dynamics="111.11">
+        <pitch>
+          <step>A</step>
+          <alter>1</alter>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <accidental>sharp</accidental>
+        <stem>up</stem>
+        <beam number="1">continue</beam>
+        <lyric number="1" default-x="6.90" default-y="-59.47" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>う </text>
+          </lyric>
+        </note>
+      <note default-x="104.80" default-y="-30.00" dynamics="111.11">
+        <pitch>
+          <step>G</step>
+          <alter>1</alter>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+        <lyric number="1" default-x="6.90" default-y="-59.47" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>で </text>
+          </lyric>
+        </note>
+      <note default-x="132.66" default-y="-30.00" dynamics="111.11">
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <accidental>natural</accidental>
+        <stem>up</stem>
+        <lyric number="1" default-x="7.91" default-y="-59.47" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>しょ </text>
+          </lyric>
+        </note>
+      <note default-x="177.22" default-y="5.00" dynamics="111.11">
+        <pitch>
+          <step>G</step>
+          <octave>5</octave>
+          </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <accidental>natural</accidental>
+        <stem>down</stem>
+        <lyric number="1" default-x="6.50" default-y="-59.47" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>br </text>
+          </lyric>
+        </note>
+      </measure>
+    <measure number="37" width="228.52">
+      <note default-x="18.04" default-y="-15.00" dynamics="111.11">
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <accidental>natural</accidental>
+        <stem>down</stem>
+        <beam number="1">begin</beam>
+        <lyric number="1" default-x="6.70" default-y="-59.47" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>た </text>
+          </lyric>
+        </note>
+      <note default-x="44.14" default-y="-15.00" dynamics="111.11">
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">end</beam>
+        <lyric number="1" default-x="7.30" default-y="-59.47" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>い </text>
+          </lyric>
+        </note>
+      <note default-x="70.25" default-y="-25.00" dynamics="111.11">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>up</stem>
+        <lyric number="1" default-x="6.90" default-y="-59.47" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>よ </text>
+          </lyric>
+        </note>
+      <note default-x="106.14" default-y="-15.00" dynamics="111.11">
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">begin</beam>
+        <lyric number="1" default-x="6.90" default-y="-59.47" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>な </text>
+          </lyric>
+        </note>
+      <note default-x="132.25" default-y="-15.00" dynamics="111.11">
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">end</beam>
+        <lyric number="1" default-x="6.70" default-y="-59.47" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>ん </text>
+          </lyric>
+        </note>
+      <note default-x="158.36" default-y="-25.00" dynamics="111.11">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>3</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <dot/>
+        <stem>down</stem>
+        <beam number="1">begin</beam>
+        <lyric number="1" default-x="6.90" default-y="-59.47" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>か </text>
+          </lyric>
+        </note>
+      <note default-x="193.89" default-y="5.00" dynamics="111.11">
+        <pitch>
+          <step>G</step>
+          <octave>5</octave>
+          </pitch>
+        <duration>1</duration>
+        <tie type="start"/>
+        <voice>1</voice>
+        <type>16th</type>
+        <accidental>natural</accidental>
+        <stem>down</stem>
+        <beam number="1">end</beam>
+        <beam number="2">backward hook</beam>
+        <notations>
+          <tied type="start"/>
+          </notations>
+        <lyric number="1" default-x="6.50" default-y="-59.47" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>br </text>
+          </lyric>
+        </note>
+      </measure>
+    <measure number="38" width="368.51">
+      <print new-system="yes">
+        <system-layout>
+          <system-margins>
+            <left-margin>0.00</left-margin>
+            <right-margin>0.00</right-margin>
+            </system-margins>
+          <system-distance>108.29</system-distance>
+          </system-layout>
+        </print>
+      <note default-x="98.35" default-y="5.00" dynamics="111.11">
+        <pitch>
+          <step>G</step>
+          <octave>5</octave>
+          </pitch>
+        <duration>2</duration>
+        <tie type="stop"/>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">begin</beam>
+        <notations>
+          <tied type="stop"/>
+          </notations>
+        </note>
+      <note default-x="130.98" default-y="-15.00" dynamics="111.11">
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <accidental>natural</accidental>
+        <stem>down</stem>
+        <beam number="1">continue</beam>
+        <lyric number="1" default-x="6.90" default-y="-60.73" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>ま </text>
+          </lyric>
+        </note>
+      <note default-x="163.60" default-y="-15.00" dynamics="111.11">
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">continue</beam>
+        <lyric number="1" default-x="6.70" default-y="-60.73" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>ぶ </text>
+          </lyric>
+        </note>
+      <note default-x="196.23" default-y="-25.00" dynamics="111.11">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">end</beam>
+        <lyric number="1" default-x="7.91" default-y="-60.73" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>し </text>
+          </lyric>
+        </note>
+      <note default-x="228.85" default-y="-15.00" dynamics="111.11">
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">begin</beam>
+        <lyric number="1" default-x="6.90" default-y="-60.73" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>く </text>
+          </lyric>
+        </note>
+      <note default-x="261.48" default-y="-15.00" dynamics="111.11">
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">end</beam>
+        <lyric number="1" default-x="6.70" default-y="-60.73" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>っ </text>
+          </lyric>
+        </note>
+      <note default-x="294.10" default-y="-25.00" dynamics="111.11">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>3</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <dot/>
+        <stem>down</stem>
+        <beam number="1">begin</beam>
+        <lyric number="1" default-x="6.90" default-y="-60.73" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>て </text>
+          </lyric>
+        </note>
+      <note default-x="333.88" default-y="5.00" dynamics="111.11">
+        <pitch>
+          <step>G</step>
+          <octave>5</octave>
+          </pitch>
+        <duration>1</duration>
+        <tie type="start"/>
+        <voice>1</voice>
+        <type>16th</type>
+        <accidental>natural</accidental>
+        <stem>down</stem>
+        <beam number="1">end</beam>
+        <beam number="2">backward hook</beam>
+        <notations>
+          <tied type="start"/>
+          </notations>
+        <lyric number="1" default-x="6.50" default-y="-60.73" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>br </text>
+          </lyric>
+        </note>
+      </measure>
+    <measure number="39" width="220.55">
+      <note default-x="13.00" default-y="5.00" dynamics="111.11">
+        <pitch>
+          <step>G</step>
+          <octave>5</octave>
+          </pitch>
+        <duration>2</duration>
+        <tie type="stop"/>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">begin</beam>
+        <notations>
+          <tied type="stop"/>
+          </notations>
+        </note>
+      <note default-x="41.58" default-y="-35.00" dynamics="111.11">
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">continue</beam>
+        <lyric number="1" default-x="6.90" default-y="-60.73" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>や </text>
+          </lyric>
+        </note>
+      <note default-x="70.15" default-y="-35.00" dynamics="111.11">
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">continue</beam>
+        <lyric number="1" default-x="6.90" default-y="-60.73" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>み </text>
+          </lyric>
+        </note>
+      <note default-x="98.73" default-y="-30.00" dynamics="111.11">
+        <pitch>
+          <step>G</step>
+          <alter>1</alter>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">end</beam>
+        <lyric number="1" default-x="6.90" default-y="-60.73" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>の </text>
+          </lyric>
+        </note>
+      <note default-x="127.31" default-y="-25.00" dynamics="111.11">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>up</stem>
+        <lyric number="1" default-x="7.10" default-y="-60.73" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>ほ </text>
+          </lyric>
+        </note>
+      <note default-x="173.03" default-y="-25.00" dynamics="111.11">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>up</stem>
+        <lyric number="1" default-x="6.90" default-y="-60.73" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>が </text>
+          </lyric>
+        </note>
+      </measure>
+    <measure number="40" width="217.21">
+      <note default-x="15.21" default-y="-30.00" dynamics="111.11">
+        <pitch>
+          <step>G</step>
+          <alter>1</alter>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+        <lyric number="1" default-x="6.90" default-y="-60.73" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>む </text>
+          </lyric>
+        </note>
+      <note default-x="43.02" default-y="-25.00" dynamics="111.11">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">continue</beam>
+        <lyric number="1" default-x="7.10" default-y="-60.73" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>げ </text>
+          </lyric>
+        </note>
+      <note default-x="70.82" default-y="-25.00" dynamics="111.11">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">continue</beam>
+        <lyric number="1" default-x="6.70" default-y="-60.73" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>ん </text>
+          </lyric>
+        </note>
+      <note default-x="98.63" default-y="-20.00" dynamics="111.11">
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+        <lyric number="1" default-x="6.90" default-y="-60.73" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>で </text>
+          </lyric>
+        </note>
+      <note default-x="126.43" default-y="-20.00" dynamics="111.11">
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>down</stem>
+        <lyric number="1" default-x="6.90" default-y="-60.73" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>す </text>
+          </lyric>
+        </note>
+      <note>
+        <rest/>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        </note>
+      </measure>
+    <measure number="41" width="222.43">
+      <note default-x="18.04" default-y="-15.00" dynamics="111.11">
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <accidental>natural</accidental>
+        <stem>down</stem>
+        <beam number="1">begin</beam>
+        <lyric number="1" default-x="6.70" default-y="-60.73" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>た </text>
+          </lyric>
+        </note>
+      <note default-x="46.18" default-y="-15.00" dynamics="111.11">
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">end</beam>
+        <lyric number="1" default-x="7.30" default-y="-60.73" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>い </text>
+          </lyric>
+        </note>
+      <note default-x="74.31" default-y="-25.00" dynamics="111.11">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>up</stem>
+        <lyric number="1" default-x="6.90" default-y="-60.73" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>よ </text>
+          </lyric>
+        </note>
+      <note default-x="119.33" default-y="-15.00" dynamics="111.11">
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">begin</beam>
+        <lyric number="1" default-x="7.10" default-y="-60.73" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>ば </text>
+          </lyric>
+        </note>
+      <note default-x="147.47" default-y="-15.00" dynamics="111.11">
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">end</beam>
+        <lyric number="1" default-x="6.70" default-y="-60.73" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>っ </text>
+          </lyric>
+        </note>
+      <note default-x="175.61" default-y="-25.00" dynamics="111.11">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>up</stem>
+        <lyric number="1" default-x="6.90" default-y="-60.73" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>か </text>
+          </lyric>
+        </note>
+      </measure>
+    <measure number="42" width="318.41">
+      <print new-system="yes">
+        <system-layout>
+          <system-margins>
+            <left-margin>0.00</left-margin>
+            <right-margin>0.00</right-margin>
+            </system-margins>
+          <system-distance>108.29</system-distance>
+          </system-layout>
+        </print>
+      <note>
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        </note>
+      <note default-x="123.34" default-y="-15.00" dynamics="111.11">
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <accidental>natural</accidental>
+        <stem>down</stem>
+        <beam number="1">begin</beam>
+        <lyric number="1" default-x="6.90" default-y="-60.73" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>ま </text>
+          </lyric>
+        </note>
+      <note default-x="148.32" default-y="-15.00" dynamics="111.11">
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">continue</beam>
+        <lyric number="1" default-x="6.70" default-y="-60.73" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>ぶ </text>
+          </lyric>
+        </note>
+      <note default-x="173.30" default-y="-25.00" dynamics="111.11">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">end</beam>
+        <lyric number="1" default-x="7.91" default-y="-60.73" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>し </text>
+          </lyric>
+        </note>
+      <note default-x="198.28" default-y="-15.00" dynamics="111.11">
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">begin</beam>
+        <lyric number="1" default-x="6.90" default-y="-60.73" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>く </text>
+          </lyric>
+        </note>
+      <note default-x="223.27" default-y="-15.00" dynamics="111.11">
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">end</beam>
+        <lyric number="1" default-x="6.70" default-y="-60.73" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>っ </text>
+          </lyric>
+        </note>
+      <note default-x="248.25" default-y="-25.00" dynamics="111.11">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>3</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <dot/>
+        <stem>down</stem>
+        <beam number="1">begin</beam>
+        <lyric number="1" default-x="6.90" default-y="-60.73" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>て </text>
+          </lyric>
+        </note>
+      <note default-x="283.78" default-y="5.00" dynamics="111.11">
+        <pitch>
+          <step>G</step>
+          <octave>5</octave>
+          </pitch>
+        <duration>1</duration>
+        <tie type="start"/>
+        <voice>1</voice>
+        <type>16th</type>
+        <accidental>natural</accidental>
+        <stem>down</stem>
+        <beam number="1">end</beam>
+        <beam number="2">backward hook</beam>
+        <notations>
+          <tied type="start"/>
+          </notations>
+        <lyric number="1" default-x="6.50" default-y="-60.73" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>br </text>
+          </lyric>
+        </note>
+      </measure>
+    <measure number="43" width="175.43">
+      <note default-x="13.00" default-y="5.00" dynamics="111.11">
+        <pitch>
+          <step>G</step>
+          <octave>5</octave>
+          </pitch>
+        <duration>2</duration>
+        <tie type="stop"/>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">begin</beam>
+        <notations>
+          <tied type="stop"/>
+          </notations>
+        </note>
+      <note default-x="35.31" default-y="-35.00" dynamics="111.11">
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">continue</beam>
+        <lyric number="1" default-x="6.90" default-y="-60.73" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>や </text>
+          </lyric>
+        </note>
+      <note default-x="57.62" default-y="-35.00" dynamics="111.11">
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">continue</beam>
+        <lyric number="1" default-x="6.90" default-y="-60.73" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>み </text>
+          </lyric>
+        </note>
+      <note default-x="79.93" default-y="-30.00" dynamics="111.11">
+        <pitch>
+          <step>G</step>
+          <alter>1</alter>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">end</beam>
+        <lyric number="1" default-x="6.90" default-y="-60.73" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>の </text>
+          </lyric>
+        </note>
+      <note default-x="102.24" default-y="-25.00" dynamics="111.11">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>up</stem>
+        <lyric number="1" default-x="7.10" default-y="-60.73" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>ほ </text>
+          </lyric>
+        </note>
+      <note default-x="137.94" default-y="-25.00" dynamics="111.11">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>up</stem>
+        <lyric number="1" default-x="6.90" default-y="-60.73" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>が </text>
+          </lyric>
+        </note>
+      </measure>
+    <measure number="44" width="120.60">
+      <note default-x="15.41" default-y="-30.00" dynamics="111.11">
+        <pitch>
+          <step>G</step>
+          <alter>1</alter>
+          <octave>4</octave>
+          </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>up</stem>
+        <notations>
+          <articulations>
+            <staccato/>
+            </articulations>
+          </notations>
+        <lyric number="1" default-x="6.90" default-y="-60.73" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>す </text>
+          </lyric>
+        </note>
+      <note default-x="40.54" default-y="-25.00" dynamics="111.11">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>up</stem>
+        <notations>
+          <articulations>
+            <staccato/>
+            </articulations>
+          </notations>
+        <lyric number="1" default-x="6.90" default-y="-60.73" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>て </text>
+          </lyric>
+        </note>
+      <note default-x="65.68" default-y="-20.00" dynamics="111.11">
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>down</stem>
+        <lyric number="1" default-x="7.30" default-y="-60.73" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>き </text>
+          </lyric>
+        </note>
+      <note>
+        <rest/>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        </note>
+      </measure>
+    <measure number="45" width="183.60">
+      <note default-x="18.04" default-y="-15.00" dynamics="111.11">
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+          </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <accidental>natural</accidental>
+        <stem>down</stem>
+        <lyric number="1" default-x="7.10" default-y="-60.73" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>け </text>
+          </lyric>
+        </note>
+      <note default-x="52.24" default-y="-25.00" dynamics="111.11">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+        <lyric number="1" default-x="7.10" default-y="-60.73" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>お </text>
+          </lyric>
+        </note>
+      <note default-x="73.62" default-y="-25.00" dynamics="111.11">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+        <lyric number="1" default-x="6.90" default-y="-60.73" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>す </text>
+          </lyric>
+        </note>
+      <note default-x="95.00" default-y="-15.00" dynamics="111.11">
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+          </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>down</stem>
+        <lyric number="1" default-x="7.10" default-y="-60.73" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>け </text>
+          </lyric>
+        </note>
+      <note default-x="129.21" default-y="-25.00" dynamics="111.11">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+        <lyric number="1" default-x="7.10" default-y="-60.73" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>お </text>
+          </lyric>
+        </note>
+      <note default-x="150.58" default-y="-25.00" dynamics="111.11">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+        <lyric number="1" default-x="6.90" default-y="-60.73" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>す </text>
+          </lyric>
+        </note>
+      </measure>
+    <measure number="46" width="230.66">
+      <note>
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        </note>
+      <note default-x="39.86" default-y="-15.00" dynamics="111.11">
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>16th</type>
+        <accidental>natural</accidental>
+        <stem>down</stem>
+        <beam number="1">begin</beam>
+        <beam number="2">begin</beam>
+        <lyric number="1" default-x="7.10" default-y="-60.73" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>あ </text>
+          </lyric>
+        </note>
+      <note default-x="59.28" default-y="-15.00" dynamics="111.11">
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>16th</type>
+        <stem>down</stem>
+        <beam number="1">end</beam>
+        <beam number="2">end</beam>
+        <lyric number="1" default-x="7.30" default-y="-60.73" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>い </text>
+          </lyric>
+        </note>
+      <note default-x="80.11" default-y="-15.00" dynamics="111.11">
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">begin</beam>
+        <lyric number="1" default-x="6.70" default-y="-60.73" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>わ </text>
+          </lyric>
+        </note>
+      <note default-x="106.98" default-y="-25.00" dynamics="111.11">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">end</beam>
+        <lyric number="1" default-x="6.90" default-y="-60.73" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>な </text>
+          </lyric>
+        </note>
+      <note default-x="133.84" default-y="-15.00" dynamics="111.11">
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+          </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>down</stem>
+        <lyric number="1" default-x="7.10" default-y="-60.73" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>け </text>
+          </lyric>
+        </note>
+      <note default-x="170.78" default-y="-25.00" dynamics="111.11">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+        <lyric number="1" default-x="7.10" default-y="-60.73" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>お </text>
+          </lyric>
+        </note>
+      <note default-x="197.64" default-y="-25.00" dynamics="111.11">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+        <lyric number="1" default-x="6.90" default-y="-60.73" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>す </text>
+          </lyric>
+        </note>
+      </measure>
+    <measure number="47" width="337.14">
+      <print new-system="yes">
+        <system-layout>
+          <system-margins>
+            <left-margin>0.00</left-margin>
+            <right-margin>0.00</right-margin>
+            </system-margins>
+          <system-distance>108.29</system-distance>
+          </system-layout>
+        </print>
+      <note default-x="107.69" default-y="5.00" dynamics="111.11">
+        <pitch>
+          <step>G</step>
+          <octave>5</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <accidental>natural</accidental>
+        <stem>down</stem>
+        <beam number="1">begin</beam>
+        <lyric number="1" default-x="6.50" default-y="-61.13" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>br </text>
+          </lyric>
+        </note>
+      <note default-x="135.78" default-y="-35.00" dynamics="111.11">
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">continue</beam>
+        <lyric number="1" default-x="7.10" default-y="-61.13" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>も </text>
+          </lyric>
+        </note>
+      <note default-x="163.87" default-y="-35.00" dynamics="111.11">
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">continue</beam>
+        <lyric number="1" default-x="6.90" default-y="-61.13" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>え </text>
+          </lyric>
+        </note>
+      <note default-x="191.96" default-y="-30.00" dynamics="111.11">
+        <pitch>
+          <step>G</step>
+          <alter>1</alter>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">end</beam>
+        <lyric number="1" default-x="6.90" default-y="-61.13" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>よ </text>
+          </lyric>
+        </note>
+      <note default-x="220.05" default-y="-25.00" dynamics="111.11">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+        <lyric number="1" default-x="7.10" default-y="-61.13" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>こ </text>
+          </lyric>
+        </note>
+      <note default-x="248.14" default-y="-25.00" dynamics="111.11">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">continue</beam>
+        <lyric number="1" default-x="6.70" default-y="-61.13" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>ん </text>
+          </lyric>
+        </note>
+      <note default-x="276.23" default-y="-25.00" dynamics="111.11">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">continue</beam>
+        <lyric number="1" default-x="6.70" default-y="-61.13" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>と </text>
+          </lyric>
+        </note>
+      <note default-x="304.32" default-y="-25.00" dynamics="111.11">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+        <lyric number="1" default-x="6.70" default-y="-61.13" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>ん </text>
+          </lyric>
+        </note>
+      </measure>
+    <measure number="48" width="235.74">
+      <note default-x="15.21" default-y="-30.00" dynamics="111.11">
+        <pitch>
+          <step>G</step>
+          <alter>1</alter>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+        <lyric number="1" default-x="6.90" default-y="-61.13" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>む </text>
+          </lyric>
+        </note>
+      <note default-x="45.51" default-y="-25.00" dynamics="111.11">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">continue</beam>
+        <lyric number="1" default-x="6.90" default-y="-61.13" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>て </text>
+          </lyric>
+        </note>
+      <note default-x="75.81" default-y="-25.00" dynamics="111.11">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">continue</beam>
+        <lyric number="1" default-x="7.30" default-y="-61.13" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>き </text>
+          </lyric>
+        </note>
+      <note default-x="106.11" default-y="-20.00" dynamics="111.11">
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+        <lyric number="1" default-x="6.90" default-y="-61.13" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>で </text>
+          </lyric>
+        </note>
+      <note default-x="136.40" default-y="-20.00" dynamics="111.11">
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>3</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <dot/>
+        <stem>down</stem>
+        <beam number="1">begin</beam>
+        <lyric number="1" default-x="6.90" default-y="-61.13" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>す </text>
+          </lyric>
+        </note>
+      <note default-x="173.35" default-y="5.00" dynamics="111.11">
+        <pitch>
+          <step>G</step>
+          <octave>5</octave>
+          </pitch>
+        <duration>1</duration>
+        <tie type="start"/>
+        <voice>1</voice>
+        <type>16th</type>
+        <accidental>natural</accidental>
+        <stem>down</stem>
+        <beam number="1">end</beam>
+        <beam number="2">backward hook</beam>
+        <notations>
+          <tied type="start"/>
+          </notations>
+        <lyric number="1" default-x="6.50" default-y="-61.13" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>br </text>
+          </lyric>
+        </note>
+      <note default-x="192.28" default-y="5.00" dynamics="111.11">
+        <pitch>
+          <step>G</step>
+          <octave>5</octave>
+          </pitch>
+        <duration>4</duration>
+        <tie type="stop"/>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>down</stem>
+        <notations>
+          <tied type="stop"/>
+          </notations>
+        </note>
+      </measure>
+    <measure number="49" width="207.41">
+      <note default-x="18.04" default-y="-15.00" dynamics="111.11">
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+          </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <accidental>natural</accidental>
+        <stem>down</stem>
+        <lyric number="1" default-x="7.10" default-y="-61.13" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>け </text>
+          </lyric>
+        </note>
+      <note default-x="58.39" default-y="-25.00" dynamics="111.11">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+        <lyric number="1" default-x="7.10" default-y="-61.13" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>お </text>
+          </lyric>
+        </note>
+      <note default-x="83.61" default-y="-25.00" dynamics="111.11">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+        <lyric number="1" default-x="6.90" default-y="-61.13" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>す </text>
+          </lyric>
+        </note>
+      <note default-x="108.82" default-y="-15.00" dynamics="111.11">
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+          </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>down</stem>
+        <lyric number="1" default-x="7.10" default-y="-61.13" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>け </text>
+          </lyric>
+        </note>
+      <note default-x="149.17" default-y="-25.00" dynamics="111.11">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+        <lyric number="1" default-x="7.10" default-y="-61.13" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>お </text>
+          </lyric>
+        </note>
+      <note default-x="174.39" default-y="-25.00" dynamics="111.11">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+        <lyric number="1" default-x="6.90" default-y="-61.13" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>す </text>
+          </lyric>
+        </note>
+      </measure>
+    <measure number="50" width="248.41">
+      <note>
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        </note>
+      <note default-x="43.26" default-y="-15.00" dynamics="111.11">
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>16th</type>
+        <accidental>natural</accidental>
+        <stem>down</stem>
+        <beam number="1">begin</beam>
+        <beam number="2">begin</beam>
+        <lyric number="1" default-x="6.90" default-y="-61.13" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>う </text>
+          </lyric>
+        </note>
+      <note default-x="62.17" default-y="-15.00" dynamics="111.11">
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>16th</type>
+        <stem>down</stem>
+        <beam number="1">end</beam>
+        <beam number="2">end</beam>
+        <lyric number="1" default-x="6.90" default-y="-61.13" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>な </text>
+          </lyric>
+        </note>
+      <note default-x="83.01" default-y="-15.00" dynamics="111.11">
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">begin</beam>
+        <lyric number="1" default-x="6.90" default-y="-61.13" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>せ </text>
+          </lyric>
+        </note>
+      <note default-x="113.27" default-y="-25.00" dynamics="111.11">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">end</beam>
+        <lyric number="1" default-x="7.30" default-y="-61.13" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>ら </text>
+          </lyric>
+        </note>
+      <note default-x="143.53" default-y="-15.00" dynamics="111.11">
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+          </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>down</stem>
+        <lyric number="1" default-x="7.10" default-y="-61.13" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>け </text>
+          </lyric>
+        </note>
+      <note default-x="185.14" default-y="-25.00" dynamics="111.11">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+        <lyric number="1" default-x="7.10" default-y="-61.13" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>お </text>
+          </lyric>
+        </note>
+      <note default-x="215.40" default-y="-25.00" dynamics="111.11">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+        <lyric number="1" default-x="6.90" default-y="-61.13" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>す </text>
+          </lyric>
+        </note>
+      </measure>
+    <measure number="51" width="274.17">
+      <print new-page="yes">
+        <system-layout>
+          <system-margins>
+            <left-margin>0.00</left-margin>
+            <right-margin>0.00</right-margin>
+            </system-margins>
+          <top-system-distance>70.00</top-system-distance>
+          </system-layout>
+        </print>
+      <note default-x="107.69" default-y="5.00" dynamics="111.11">
+        <pitch>
+          <step>G</step>
+          <octave>5</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <accidental>natural</accidental>
+        <stem>down</stem>
+        <beam number="1">begin</beam>
+        <lyric number="1" default-x="6.50" default-y="-61.13" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>br </text>
+          </lyric>
+        </note>
+      <note default-x="130.56" default-y="-35.00" dynamics="111.11">
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">continue</beam>
+        <lyric number="1" default-x="7.10" default-y="-61.13" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>も </text>
+          </lyric>
+        </note>
+      <note default-x="153.44" default-y="-35.00" dynamics="111.11">
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">continue</beam>
+        <lyric number="1" default-x="6.90" default-y="-61.13" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>え </text>
+          </lyric>
+        </note>
+      <note default-x="176.31" default-y="-30.00" dynamics="111.11">
+        <pitch>
+          <step>G</step>
+          <alter>1</alter>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">end</beam>
+        <lyric number="1" default-x="6.90" default-y="-61.13" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>る </text>
+          </lyric>
+        </note>
+      <note default-x="199.18" default-y="-25.00" dynamics="111.11">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>up</stem>
+        <lyric number="1" default-x="6.90" default-y="-61.13" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>よ </text>
+          </lyric>
+        </note>
+      <note default-x="235.78" default-y="-25.00" dynamics="111.11">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>up</stem>
+        <lyric number="1" default-x="6.90" default-y="-61.13" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>な </text>
+          </lyric>
+        </note>
+      </measure>
+    <measure number="52" width="164.84">
+      <note default-x="13.80" default-y="-30.00" dynamics="111.11">
+        <pitch>
+          <step>G</step>
+          <alter>1</alter>
+          <octave>4</octave>
+          </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>up</stem>
+        <lyric number="1" default-x="7.30" default-y="-61.13" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>き </text>
+          </lyric>
+        </note>
+      <note default-x="46.40" default-y="-25.00" dynamics="111.11">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>up</stem>
+        <notations>
+          <articulations>
+            <staccato/>
+            </articulations>
+          </notations>
+        <lyric number="1" default-x="7.10" default-y="-61.13" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>も </text>
+          </lyric>
+        </note>
+      <note default-x="79.01" default-y="-20.00" dynamics="111.11">
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>3</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <dot/>
+        <stem>down</stem>
+        <beam number="1">begin</beam>
+        <lyric number="1" default-x="6.90" default-y="-61.13" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>ち </text>
+          </lyric>
+        </note>
+      <note default-x="114.54" default-y="5.00" dynamics="111.11">
+        <pitch>
+          <step>G</step>
+          <octave>5</octave>
+          </pitch>
+        <duration>1</duration>
+        <tie type="start"/>
+        <voice>1</voice>
+        <type>16th</type>
+        <accidental>natural</accidental>
+        <stem>down</stem>
+        <beam number="1">end</beam>
+        <beam number="2">backward hook</beam>
+        <notations>
+          <tied type="start"/>
+          </notations>
+        <lyric number="1" default-x="6.50" default-y="-61.13" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>br </text>
+          </lyric>
+        </note>
+      <note default-x="130.44" default-y="5.00" dynamics="111.11">
+        <pitch>
+          <step>G</step>
+          <octave>5</octave>
+          </pitch>
+        <duration>4</duration>
+        <tie type="stop"/>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>down</stem>
+        <notations>
+          <tied type="stop"/>
+          </notations>
+        </note>
+      </measure>
+    <measure number="53" width="308.20">
+      <note default-x="18.04" default-y="-15.00" dynamics="111.11">
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>16th</type>
+        <accidental>natural</accidental>
+        <stem>down</stem>
+        <beam number="1">begin</beam>
+        <beam number="2">begin</beam>
+        <lyric number="1" default-x="6.70" default-y="-61.13" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>わ </text>
+          </lyric>
+        </note>
+      <note default-x="39.47" default-y="-15.00" dynamics="111.11">
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>16th</type>
+        <stem>down</stem>
+        <beam number="1">continue</beam>
+        <beam number="2">continue</beam>
+        <lyric number="1" default-x="6.70" default-y="-61.13" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>れ </text>
+          </lyric>
+        </note>
+      <note default-x="60.91" default-y="-15.00" dynamics="111.11">
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>16th</type>
+        <stem>down</stem>
+        <beam number="1">continue</beam>
+        <beam number="2">continue</beam>
+        <lyric number="1" default-x="6.70" default-y="-61.13" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>わ </text>
+          </lyric>
+        </note>
+      <note default-x="82.34" default-y="-15.00" dynamics="111.11">
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+          </pitch>
+        <duration>1</duration>
+        <tie type="start"/>
+        <voice>1</voice>
+        <type>16th</type>
+        <stem>down</stem>
+        <beam number="1">end</beam>
+        <beam number="2">end</beam>
+        <notations>
+          <tied type="start"/>
+          </notations>
+        <lyric number="1" default-x="6.70" default-y="-61.13" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>れ </text>
+          </lyric>
+        </note>
+      <note default-x="101.41" default-y="-15.00" dynamics="111.11">
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+          </pitch>
+        <duration>2</duration>
+        <tie type="stop"/>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>down</stem>
+        <notations>
+          <tied type="stop"/>
+          </notations>
+        </note>
+      <note>
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        </note>
+      <note default-x="162.42" default-y="-20.00" dynamics="111.11">
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>16th</type>
+        <stem>down</stem>
+        <beam number="1">begin</beam>
+        <beam number="2">begin</beam>
+        <lyric number="1" default-x="6.90" default-y="-61.13" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>や </text>
+          </lyric>
+        </note>
+      <note default-x="183.86" default-y="-20.00" dynamics="111.11">
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>16th</type>
+        <stem>down</stem>
+        <beam number="1">continue</beam>
+        <beam number="2">continue</beam>
+        <lyric number="1" default-x="6.70" default-y="-61.13" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>れ </text>
+          </lyric>
+        </note>
+      <note default-x="204.89" default-y="-20.00" dynamics="111.11">
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>16th</type>
+        <stem>down</stem>
+        <beam number="1">continue</beam>
+        <beam number="2">continue</beam>
+        <lyric number="1" default-x="6.90" default-y="-61.13" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>や </text>
+          </lyric>
+        </note>
+      <note default-x="226.33" default-y="-20.00" dynamics="111.11">
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>1</duration>
+        <tie type="start"/>
+        <voice>1</voice>
+        <type>16th</type>
+        <stem>down</stem>
+        <beam number="1">end</beam>
+        <beam number="2">end</beam>
+        <notations>
+          <tied type="start"/>
+          </notations>
+        <lyric number="1" default-x="6.70" default-y="-61.13" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>れ </text>
+          </lyric>
+        </note>
+      <note default-x="245.39" default-y="-20.00" dynamics="111.11">
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <tie type="stop"/>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>down</stem>
+        <notations>
+          <tied type="stop"/>
+          </notations>
+        </note>
+      <note>
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        </note>
+      </measure>
+    <measure number="54" width="281.49">
+      <note default-x="15.41" default-y="-25.00" dynamics="111.11">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+        <lyric number="1" default-x="6.90" default-y="-61.13" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>せ </text>
+          </lyric>
+        </note>
+      <note default-x="46.25" default-y="-25.00" dynamics="111.11">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">continue</beam>
+        <lyric number="1" default-x="6.90" default-y="-61.13" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>か </text>
+          </lyric>
+        </note>
+      <note default-x="77.10" default-y="-30.00" dynamics="111.11">
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <accidental>natural</accidental>
+        <stem>up</stem>
+        <beam number="1">continue</beam>
+        <lyric number="1" default-x="7.30" default-y="-61.13" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>い </text>
+          </lyric>
+        </note>
+      <note default-x="107.94" default-y="-30.00" dynamics="111.11">
+        <pitch>
+          <step>G</step>
+          <alter>1</alter>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <accidental>sharp</accidental>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+        <lyric number="1" default-x="6.70" default-y="-61.13" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>わ </text>
+          </lyric>
+        </note>
+      <note default-x="138.78" default-y="-25.00" dynamics="111.11">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>3</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <dot/>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+        <lyric number="1" default-x="6.70" default-y="-61.13" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>だ </text>
+          </lyric>
+        </note>
+      <note default-x="176.39" default-y="-25.00" dynamics="111.11">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>1</duration>
+        <tie type="start"/>
+        <voice>1</voice>
+        <type>16th</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+        <beam number="2">backward hook</beam>
+        <notations>
+          <tied type="start"/>
+          </notations>
+        <lyric number="1" default-x="6.90" default-y="-61.13" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>く </text>
+          </lyric>
+        </note>
+      <note default-x="195.66" default-y="-25.00" dynamics="111.11">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+          </pitch>
+        <duration>1</duration>
+        <tie type="stop"/>
+        <voice>1</voice>
+        <type>16th</type>
+        <stem>up</stem>
+        <notations>
+          <tied type="stop"/>
+          </notations>
+        </note>
+      <note>
+        <rest/>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>16th</type>
+        </note>
+      <note>
+        <rest/>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        </note>
+      <barline location="right">
+        <bar-style>light-heavy</bar-style>
+        </barline>
+      </measure>
+    </part>
+  </score-partwise>
